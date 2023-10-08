@@ -1,11 +1,7 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GH-JY&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GH-JY)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GH-JY&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=wanghao221&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wanghao221&theme=radical">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wanghao221&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=GH-JY&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GH-JY&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GH-JY&theme=radical">
 </p>
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
